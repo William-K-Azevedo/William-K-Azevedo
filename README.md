@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é William!</h1>
-<h3 align="center">Desenvolvedor Full-stack Jr.</h3>
+<h3 align="center">Desenvolvedor Full-stack</h3>
 
 <h3 align="left"><a href="https://portfolio-1yzt27m4a-william-k-azevedo.vercel.app/" target="_blank" rel="noreferrer">Visite meu site de portfolio clicando aqui!</a></h3>
 
